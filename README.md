@@ -2,7 +2,6 @@
 
 [![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/duongdoandanghoc/Project-CTDL-GT)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ## 🌟 Giới thiệu
 
@@ -113,10 +112,6 @@ This repository provides a C++ implementation to solve the **Knight's Shortest P
 ## 🤝 Đóng góp
 
 Mọi ý tưởng cải tiến (ví dụ: thêm giao diện đồ họa, tối ưu bộ nhớ) đều được hoan nghênh. Vui lòng tạo **Issue** hoặc **Pull Request**.
-
-## 📄 Giấy phép
-
-Dự án này được phát hành dưới Giấy phép MIT.
 
 ---
 
