@@ -115,6 +115,4 @@ Mọi ý tưởng cải tiến (ví dụ: thêm giao diện đồ họa, tối �
 
 ---
 
-*Tài liệu này được nâng cấp bởi **Manus AI** vào ngày 23 tháng 2 năm 2026.*
-
 *Liên hệ tác giả: [duongdoandanghoc](https://github.com/duongdoandanghoc)*
